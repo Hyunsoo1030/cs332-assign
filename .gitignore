@@ -1,1 +1,14 @@
+# IDE & Editor settings
+.idea/
+.settings/
+*.iml
+.classpath
+.project
+
+# sbt/scala
+target/
+out/
+
+# macOS
 .DS_Store
+
